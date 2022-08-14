@@ -7,188 +7,180 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Teddy Garcia-Aroca, Ph.D.
+    tagline: Assistant Professor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: teddy.garcia@unl.edu
+    phone: 402 472 28 58
+    timezone: America/Chicago
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: teddygarciaaroca.com #do not add http://
+    linkedin: teddy-garcia-aroca-228437245
+    github: teddyaroca
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@teddygofficial'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://teddyaroca.github.io/online-cv/cv/tgarciaaroca.cv.august.2022.pdf
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Soccer
         link:
 
-      - item: Snowboarding
+      - item: Movies
         link:
 
-      - item: Cooking
+      - item: Classical Music
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My research interests are quite broad, but one of the main drivers of my research is that I find the nature of microorganisms very intriguing. 
+      Under the umbrella of genomic epidemiology, I am interested in studying important pathogens of humans, animals, and plants.
+      From the applied to the fundamental questions of ecology and evolution, speciation, lifestyle transitions, host ranges, recombination, and selection pressures, 
+      I study the evolutionary history of pathogens in space and time, and its implications. 
+      I have implemented a wide variety of tools in biological sciences to address interesting questions of fungal and bacterial biology, including non-parametric statistics, biostatistics, and classical statistics; taxonomy, phylogenetics, population genomics, and clasical epidemiology approaches.
+      Most recently, I have used computational biology, bioinformatics, and quantitative biology to study patterns of recombination and evolution of human and animal bacterial pathogens.
+      In the future, I want to contribute to larger efforts to elucidate the biogeography and historical context, ecological roles, and potential management strategies of important pathogens. 
+        
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D. in Plant Pathology
+      university: Louisiana State University
+      time: 2017 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        My PhD dissertation focussed on describing a novel fungal pathogen of soybean, causing a disease known as taproot decline (TRD), and elucidating the reasons leading to its appearance in the
+        southern United States. Our findings included:
+          - Pathogen described as a new species, <i>Xylaria necrophora</i>.
+          - <i>Xylaria necrophora</i> origin, genetic diversity and reproductive strategies.
+          - Secondary metabolites produced by <i>Xylaria necrophora</i> responsible for foliar symptoms associiated with TRD.
+    - degree: M.Sc. in Plant Pathology
+      university: Louisiana State University
+      time: 2014 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I studied the influence of glyphosate on soybean nutrition and indirect effect on colonization by Cercospora cf. flagelaris, the pathogen associated with Cercospora leaf blight.
+        Our findings included:
+          - Zinc update is enhanced by glyphosate application.
+          - More Zinc could influence pathogen colonization because Zinc acts as a transcriptional activator (Zinc finger).
+          - No correlation between disease symptom ratings and fungal biomass detected with real-time PCR.
+    - degree: B.Sc. in Agronomy
+      university: Universidad Nacional de Agricultura (UNAG)
+      time: 2008 - 2012
+      details: |
+        For my undergraduate thesis, I worked at the University of Georgia (UGA) to build a baseline of fungicide resistance in <i>Sclerotinia homoeocarpa</i>.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Assistant Professor
+     time: August 2022 - present
+     company: Department of Plant Pathology, University of Nebraska-Lincoln
+     details: |
+         Responsibilities: Building a research program aimed to better understand the ecology of important plant pathogens in the state of Nebraska and in the northern hemisphere. Advising and mentoring undergraduate and graduate students, and postdocs. 
+         Serving in graduate committees. Writing local and federal grants. Teaching three courses in plant pathology and fungal ecology. Teaching courses in disease development and fundamental aspects of disease epidemiology.
+         Serving in local, national, and international research committees and institutions for development of collaborative research environments.
+    - role: Postdoctoral Research Associate
+      time: 2022 (January-August)
+      company: University at Albany, State University of New York
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Responsibilities: Elucidating patterns of evolution, diversity, ecology, and incidence of human, animal, and plant bacterial pathogens, including <i>Staphylococcus</i> aureus and <i>Streptomyces</i> spp. from bat caves. 
+        From sampling and handling of isolates to sequencing and analyzing genomes using state-of-the-art bioinformatic tools to address questions about the evolution, main lineages, recombination, selection, and correlations with the associated metadata. 
+        Mentoring undergraduate and graduate students. Organizing and judging student research competitions.
+    - role: Graduate Assisstant
+      time: 2017 - 2021
+      company: Louisiana State University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Carrying out and communicating research associated with an emerging disease of soybean, taproot decline (TRD), which led to the description of the novel pathogen <i>Xylaria necrophora</i>. Building and maintaining a collection of <i>X. necrophora</i> isolates and its associated metadata. 
+        Sequencing and analyzing over 300 fungal specimens for population genetics studies. 
+        Extracting secondary metabolites and testing in greenhouse and in vitro experiments. 
+        Mentoring undergraduate and graduate students, which led to two honors theses related to the development of a quantitative real-time PCR (qPCR) assay for <i>X. necrophora</i> written by undergraduate students and many contributions with graduate students.
+    - role: Graduate Assistant
+      time: 2014 - 2016
+      company: Louisiana State University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Designing, planning, and executing field and laboratory experiments to assess the indirect effects of glyphosate on plant nutrition, disease incidence and severity, and pathogen biomass (using quantitative PCR). 
+        Assisting fellow lab mates in field and lab experiments. Training and mentoring of undergraduate students.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This section describes some of my current research projects.
     assignments:
-      - title: Velocity
+      - title: Population genomics of <i>Xylaria necrophora</i>
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Population genomics to elucidate <i>Xylaria necrophora</i> diversity and reproductive strategies in the southern United States."
 
-      - title: DevStudio
+      - title: Nanopore sequencing
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Long-read sequencing of <i>Mammaliicoccus sciuri</i>, a human/animal pathogen."
 
-      - title: Tempo
+      - title: Evolution, diversity, and selection of <i>Streptomyces</i> spp.
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Selection as the driver of genetic diversity and evolution of <i>Streptomyces</i> spp. from diverse environments"
 
-      - title: Atom
+      - title: Recombination of ESKAPE pathogens
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Detecting recombination in ESKAPE pathogens"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      This section represents peer-reviewed publications (and submissions) as of July 2022.
     papers:
-      - title: The Art of Computer Programming
+      - title: Genome sequencing of methicillin-resistant and methicillin-susceptible <i>Mammaliicoccus sciuri</i> from diseased animals
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Teddy Garcia-Aroca, Stephanie S. R. Souza, Odion Ikhimiukor, Michael Marcovici, Joshua T. Smith, Sharlene Amador, Colin J. McGonagle, Griffin Nye, David B. Needle, Robert Gibson, and Cheryl P. Andam.
+        journal: Microbiology Resource Announcements
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Secondary metabolites produced by <i>Xylaria necrophora</i> are responsible for foliar symptoms associated with taproot decline of soybean
+        link: "https://doi.org/10.1094/PHP-03-22-0021-RS"
+        authors: Garcia-Aroca, T; Price, P.P; Solórzano, J; Galo, D; Sheffield, S.B; Doyle, V.P.
+        journal: Plant Health Progress
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: <i>Xylaria necrophora</i> , sp. nov., is an emerging root-associated pathogen responsible for taproot decline of soybean in the southern United States
+        link: "https://doi.org/10.1080/00275514.2020.1846965"
+        authors: Garcia-Aroca, Teddy; Price, Paul P; Tomaso-Peterson, Maria; Allen, Tom W; Wilkerson, Tessie H; Spurlock, Terry N; Faske, Travis R; Bluhm, Burt; Conner, Kassie; Sikora, Edward; Guyer, Rachel; Kelly, Heather; Squiers, Brooklyn M; Doyle, Vinson P.
+        journal: Mycologia
+
+      - title: First Report of Curvularia leaf spot of Corn, caused by <i>Curvularia lunata</i>, in the United States
+        link: "https://doi.org/10.1094/PHP-02-18-0008-BR"
+        authors: Garcia-Aroca, T; Doyle, V; Singh, R; Price, T; Collins, K.
+        journal: Plant Health Progress
+
+      - title: First report of taproot decline caused by <i>Xylaria</i> sp. on soybean in Tennessee
+        link: "https://doi.org/10.1094/PDIS-05-20-0947-PDN"
+        authors: Guyer R; Pate S; Garcia-Aroca T; Doyle VP; Price T; Kelly HM.
+        journal: Plant Disease
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
+      - name: Javascript
+        level: 50%
+
+      - name: R
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 40%
+
+      - name: Bash
+        level: 85%
+
+      - name: Perl
+        level: 50%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by @teddygofficial
