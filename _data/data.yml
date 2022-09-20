@@ -136,7 +136,7 @@ publications:
       This section represents peer-reviewed publications (and submissions) as of July 2022.
     papers:
       - title: Genome sequencing of methicillin-resistant and methicillin-susceptible <i>Mammaliicoccus sciuri</i> from diseased animals
-        link: "#"
+        link: "https://doi.org/10.1128/mra.00714-22"
         authors: Teddy Garcia-Aroca, Stephanie S. R. Souza, Odion Ikhimiukor, Michael Marcovici, Joshua T. Smith, Sharlene Amador, Colin J. McGonagle, Griffin Nye, David B. Needle, Robert Gibson, and Cheryl P. Andam.
         journal: Microbiology Resource Announcements
 
