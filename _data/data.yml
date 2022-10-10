@@ -120,11 +120,11 @@ projects:
 
       - title: Nanopore sequencing
         link: "#"
-        tagline: "Long-read sequencing of <i>Mammaliicoccus sciuri</i>, a human/animal pathogen."
+        tagline: "Long-read sequencing of plant pathogens."
 
-      - title: Evolution, diversity, and selection of <i>Streptomyces</i> spp.
+      - title: Evolution, diversity, and selection of plant pathogens.
         link: "#"
-        tagline: "Selection as the driver of genetic diversity and evolution of <i>Streptomyces</i> spp. from diverse environments"
+        tagline: "To what extent does natural selection influence fungal populations?"
 
       - title: Recombination of ESKAPE pathogens
         link: "#"
@@ -135,9 +135,14 @@ publications:
     intro: |
       This section represents peer-reviewed publications (and submissions) as of July 2022.
     papers:
+       - title: Signatures of selection and homologous recombination in the core genomes of four antibiotic-producing <i>Streptomyces</i> species
+        link: "#"
+        authors: Garcia-Aroca, T. and Andam, CP.
+        journal: mSystems. Submitted (08/29/2022)
+
       - title: Genome sequencing of methicillin-resistant and methicillin-susceptible <i>Mammaliicoccus sciuri</i> from diseased animals
         link: "https://doi.org/10.1128/mra.00714-22"
-        authors: Teddy Garcia-Aroca, Stephanie S. R. Souza, Odion Ikhimiukor, Michael Marcovici, Joshua T. Smith, Sharlene Amador, Colin J. McGonagle, Griffin Nye, David B. Needle, Robert Gibson, and Cheryl P. Andam.
+        authors: Garcia-Aroca, T; Souza, SSR; Ikhimiukor, O; Marcovici, M; Smith, JT; Amador, S; McGonagle, CJ; Nye, G; Needle, DB; Gibson, R; and Andam, CP.
         journal: Microbiology Resource Announcements
 
       - title: Secondary metabolites produced by <i>Xylaria necrophora</i> are responsible for foliar symptoms associated with taproot decline of soybean
