@@ -120,7 +120,7 @@ projects:
 
       - title: Nanopore sequencing
         link: "#"
-        tagline: "Long-read sequencing of plant pathogens."
+        tagline: "Long-read sequencing of plant, animal, and human pathogens."
 
       - title: Evolution, diversity, and selection of plant pathogens.
         link: "#"
