@@ -135,7 +135,7 @@ publications:
     intro: |
       This section represents peer-reviewed publications (and submissions) as of October 2022.
     papers:
-       - title: Signatures of selection and homologous recombination in the core genomes of four antibiotic-producing <i>Streptomyces</i> species
+      - title: Signatures of selection and homologous recombination in the core genomes of four antibiotic-producing <i>Streptomyces</i> species
         link: "#"
         authors: Garcia-Aroca, T. and Andam, CP.
         journal: mSystems. Submitted (08/29/2022)
