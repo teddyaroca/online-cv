@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://teddyaroca.github.io/online-cv/cv/2.TGA_CV_October2022.pdf
+    pdf: https://teddyaroca.github.io/online-cv/cv/TGA_CV_Jan2023.pdf
 
     languages:
       - idiom: English
@@ -136,9 +136,9 @@ publications:
       This section represents peer-reviewed publications (and submissions) as of October 2022.
     papers:
       - title: Signatures of selection and homologous recombination in the core genomes of four antibiotic-producing <i>Streptomyces</i> species
-        link: "#"
+        link: "https://journals.asm.org/doi/10.1128/mra.00714-22"
         authors: Garcia-Aroca, T. and Andam, CP.
-        journal: mSystems. Submitted (08/29/2022)
+        journal: mSystems
 
       - title: Genome sequencing of methicillin-resistant and methicillin-susceptible <i>Mammaliicoccus sciuri</i> from diseased animals
         link: "https://doi.org/10.1128/mra.00714-22"
